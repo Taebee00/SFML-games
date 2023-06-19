@@ -1,7 +1,10 @@
-# Pacman Game
+# Mugungwha Game
 C++ & SFML 라이브러리를 통한 오징어게임의 '무궁화 꽃이 피었습니다' 게임 구현하기
 
 ![image](https://github.com/Taebee00/SFML_GAMES/assets/104549849/8e4b1d88-d832-4505-b9df-c95754fb84f1)
+
+## 프로젝트 기간
+2021.11.15 ~ 2021.12.17
 
 ## 프로젝트 조건 및 기능
 - 키보드를 통한 플레이어 조작
