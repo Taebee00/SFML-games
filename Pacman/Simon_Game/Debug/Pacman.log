@@ -1,0 +1,8 @@
+﻿  Simon_Gamecpp.cpp
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(303,58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(303,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(304,65): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(304,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(305,67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\Simon_Game\Simon_Game\Simon_Gamecpp.cpp(305,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Simon_Game.vcxproj -> C:\Users\taebe\source\repos\Simon_Game\Debug\Simon_Game.exe
